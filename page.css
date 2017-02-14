@@ -3,3 +3,7 @@
   grid-template-columns: 33% 33% 33%;
   grid-gap: 10px;
 }
+.title{
+  grid-column: 2/3;
+  grid-row: 1/3;
+}
