@@ -2,6 +2,7 @@
   display:grid;
   grid-template-columns: 33% 33% 33%;
   grid-gap: 10px;
+  background-color:#c3d7f7;
 }
 .title{
 grid-column: 1 / span 2;
