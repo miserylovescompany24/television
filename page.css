@@ -1,13 +1,1 @@
-body{background-color:#c3d7f7}
-.wrapper{
-  display:grid;
-  grid-template-columns: 33% 33% 33%;
-  grid-gap: 10px;
-}
-.title{
-grid-column: 1 / span 2;
-}
-.image{
-  grid-column: 1;
-        grid-row: 2;
-}
+
